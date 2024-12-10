@@ -17,30 +17,6 @@ To Create UnoPim Attributes, open the Admin Panel and then follow the below step
 
    ![General](../../assets/1.0/images/attributes/general.png)
 
-### In UnoPim by default there are 11 Types
-
-**1) Text** - A field that allows the user to enter a single line of text. It is typically used for short inputs like names, email addresses, or search queries.
-
-**2) Textarea** - A field that provides a larger area for users to input multi-line text. It’s useful for longer responses or comments, such as descriptions or messages.
-
-**3) Boolean** - Represents a true or false value. It's often used in forms to capture yes/no or on/off selections.
-
-**4) Select** - A dropdown menu that allows users to choose one option from a list. It’s useful for making selections where only one option should be chosen from a predefined set of options.
-
-**5) Multiselect** - Similar to a select field but allows users to choose multiple options from a list. It’s useful when multiple selections are valid and necessary.
-
-**6) Datetime** - A field that allows users to select a specific date and time. It’s often used for scheduling or timestamping events.
-
-**7) Date** - A field that allows users to select or input a date only (without time). It’s used for choosing a specific day in forms and calendars.
-
-**8) Image** - A field for uploading or displaying images. Users can either upload an image file or view an image that’s already been uploaded.
-
-**9) File** - A field that allows users to upload files. It can accept various file types, such as documents, images, or other file formats.
-
-**10) Checkbox** - A small box that can be checked or unchecked. It’s used for binary choices, where a user can select or deselect an option, often used for agreements or preferences.
-
-**11) Price**- This input type is used to create price fields that are in addition to the predefined attributes: Prices.
- 
 **Note -** The **Is Unique** Validation is only available for Type - **Text, Datetime & Date**
 
 **Step-3** Enter the Label of your Attribute as shown in the below image.
@@ -68,6 +44,62 @@ Now **Save the Attribute** and then go the the Attribute Family from **Catalog >
 Now, **Save Attribute Family** and check the output while creating products on the product edit page as shown in the below image.   
 
    ![Product](../../assets/1.0/images/attributes/product.png)   
+
+### A Visual Breakdown of UnoPim 12 Product Data Types
+
+**1) Text** - A field that allows the user to enter a single line of text. It is typically used for short inputs like names, email addresses, or search queries.
+
+   ![General](../../assets/1.0/images/attributes/text.png)
+
+**2) Textarea** - A field that provides a larger area for users to input multi-line text. It’s useful for longer responses or comments, such as descriptions or messages. 
+
+Additionally, you can Enable/Disable the Wysiwyg Editor.
+
+   ![General](../../assets/1.0/images/attributes/textarea.png)
+
+**3) Boolean** - Represents a true or false value. It's often used in forms to capture yes/no or on/off selections.
+
+   ![General](../../assets/1.0/images/attributes/boolean.png)
+
+**4) Select** - A dropdown menu that allows users to choose one option from a list. It’s useful for making selections where only one option should be chosen from a predefined set of options.
+
+   ![General](../../assets/1.0/images/attributes/select.png)
+
+**5) Multiselect** - Similar to a select field but allows users to choose multiple options from a list. It’s useful when multiple selections are valid and necessary.
+
+   ![General](../../assets/1.0/images/attributes/multiselect.png)
+
+**6) Datetime** - A field that allows users to select a specific date and time. It’s often used for scheduling or timestamping events.
+
+   ![General](../../assets/1.0/images/attributes/datetime.png)
+
+**7) Date** - A field that allows users to select or input a date only (without time). It’s used for choosing a specific day in forms and calendars.
+
+   ![General](../../assets/1.0/images/attributes/date.png)
+
+**8) Gallery** - A Gallery attribute that allows managing and displaying multiple images per product, enhancing the product media experience.
+
+1) The media attribute provides the ability to edit gallery images without changing their position.
+2. Change the image position by dragging and dropping the gallery images.
+
+   ![General](../../assets/1.0/images/attributes/gallery.png)
+
+**9) Image** - A field for uploading or displaying image. Users can either upload an image file or view an image that’s already been uploaded.
+
+   ![General](../../assets/1.0/images/attributes/image.png)
+
+**10) File** - A field that allows users to upload files. It can accept various file types, such as documents, images, or other file formats.
+
+   ![General](../../assets/1.0/images/attributes/file.png)
+
+**11) Checkbox** - A small box that can be checked or unchecked. It’s used for binary choices, where a user can select or deselect an option, often used for agreements or preferences.
+
+   ![General](../../assets/1.0/images/attributes/checkbox.png)
+
+**12) Price**- This input type is used to create price fields that are in addition to the predefined attributes: Prices.
+ 
+   ![General](../../assets/1.0/images/attributes/price.png)
+
 
 By following the above steps, you can easily create a **Product Attribute** in UnoPim.
 

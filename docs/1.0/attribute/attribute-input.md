@@ -14,6 +14,7 @@ Product Attributes are a set of characteristics that define a particular product
 | Date       | Displays a date value in the preferred format.
 | Date Time       | Displays a date and time value in the preferred format and time zone.
 | Image     | This is used to show the image.
+| Gallery | A Gallery attribute that allows managing and displaying multiple images per product, enhancing the product media experience.
 | File       | File attributes refers to a specific type of attributes that allows you to associate files with the product.
 | Checkbox       | It represents a state or option that can be toggled.
 |Price | This input type is used to create price fields that are in addition to the predefined attributes: Prices.
