@@ -15,5 +15,5 @@ features:
 - title: Locales and Currencies
   details: Learn how to create and manage Locales and Currencies for UnoPim.  
 
-footer: Copyright © 2024 UnoPim
+footer: Copyright © 2025 UnoPim
 ---
