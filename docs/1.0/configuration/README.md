@@ -1,12 +1,12 @@
-### Integration 
+### 통합
 
-Integration in UnoPim is crucial for ensuring that product data is consistent, accurate, and easily accessible across various systems and channels. 
+UnoPim에서의 통합은 제품 데이터가 다양한 시스템과 채널에서 일관되고 정확하며 쉽게 접근할 수 있도록 하는 데 중요합니다. 
 
-### Magic AI
+### 매직 AI
 
-Magical AI is the ultimate tool for professionals in diverse fields looking to enhance their efficiency. Some of its use cases are: Speeding up data entry tasks for sales and customer support teams.
+매직 AI는 효율성을 높이려는 다양한 분야의 전문가를 위한 궁극적인 도구입니다. 그 중 일부 사용 사례는 다음과 같습니다: 영업 및 고객 지원 팀의 데이터 입력 작업 속도 향상.
 
-UnoPim integrates Magic AI, using artificial intelligence for management.
+UnoPim은 인공 지능을 활용한 관리를 위해 매직 AI를 통합합니다.
 
 
 

@@ -1,20 +1,20 @@
-# Attribute Input Type
+# 속성 입력 유형
 
-Attributes can have different input types that determine not only how you enter the values for the attribute, but also how shoppers can select attributes in the case of options, or enter values.
+속성은 다양한 입력 유형을 가질 수 있으며, 이는 속성 값을 입력하는 방식뿐만 아니라 구매자가 옵션의 경우 속성을 선택하거나 값을 입력하는 방식도 결정합니다.
 
-Product Attributes are a set of characteristics that define a particular product or a group of goods. This means size, color, flavor, package type, etc. constitute attributes. Product attributes are not just about the general description of a product, but they speak about the value of products that makes it unique.
+제품 속성은 특정 제품이나 상품 그룹을 정의하는 특성들의 집합입니다. 이는 크기, 색상, 맛, 패키지 유형 등을 포함합니다. 제품 속성은 단순히 제품의 일반적인 설명이 아니라, 제품을 고유하게 만드는 가치에 대해 설명합니다.
 
-| Property  | Description                                                                                           |
+| 속성 | 설명 |
 |-----------------|------------------------------------------------------------------------------------------------------------------------------------|
-| Text      | A single-line input field for text.                                                                            |
-| Text Area   | A multiple-line input field for entering paragraphs of text, such as a product description.                                                                    |
-| Boolean    | Displays a switch to toggle between Yes and No.                                                                 |
-| Select        | Displays a dropdown list of values that accepts a single selection of value                      |
-| Multi Select        | Displays a drop-down list of values that accepts multiple selections.                                                                            |
-| Date       | Displays a date value in the preferred format.
-| Date Time       | Displays a date and time value in the preferred format and time zone.
-| Image     | This is used to show the image.
-| Gallery | A Gallery attribute that allows managing and displaying multiple images per product, enhancing the product media experience.
-| File       | File attributes refers to a specific type of attributes that allows you to associate files with the product.
-| Checkbox       | It represents a state or option that can be toggled.
-|Price | This input type is used to create price fields that are in addition to the predefined attributes: Prices.
+| 텍스트 | 한 줄 입력 필드로 텍스트를 입력합니다. |
+| 텍스트 영역 | 제품 설명과 같은 여러 줄의 텍스트를 입력할 수 있는 필드입니다. |
+| 불리언 | 예/아니오를 전환할 수 있는 스위치를 표시합니다. |
+| 선택 | 단일 값을 선택할 수 있는 드롭다운 목록을 표시합니다. |
+| 다중 선택 | 여러 값을 선택할 수 있는 드롭다운 목록을 표시합니다. |
+| 날짜 | 선호하는 형식으로 날짜 값을 표시합니다. |
+| 날짜 시간 | 선호하는 형식과 시간대로 날짜와 시간 값을 표시합니다. |
+| 이미지 | 이미지를 표시하는 데 사용됩니다. |
+| 갤러리 | 제품당 여러 이미지를 관리하고 표시할 수 있는 갤러리 속성으로, 제품 미디어 경험을 향상시킵니다. |
+| 파일 | 제품과 파일을 연결할 수 있는 특정 유형의 속성을 나타냅니다. |
+| 체크박스 | 전환할 수 있는 상태나 옵션을 나타냅니다. |
+| 가격 | 미리 정의된 속성인 가격에 추가로 가격 필드를 생성하는 데 사용되는 입력 유형입니다. |

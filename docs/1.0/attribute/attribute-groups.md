@@ -1,39 +1,39 @@
-# Attribute Groups 
+# 속성 그룹
 
-Attribute groups are used to Gather attributes together to give more visibility when users fill in values
+속성 그룹은 사용자가 값을 입력할 때 더 나은 가시성을 제공하기 위해 속성들을 함께 모으는 데 사용됩니다.
 
-Organize the work of the different contributors on products.
+제품에 대한 다양한 기여자들의 작업을 체계적으로 구성합니다.
 
-### Steps to Create Attribute Groups in UnoPim
+### UnoPim에서 속성 그룹 생성하기
 
-**Step 1-**  On the Admin Dashboard, click **Catalog** >> **Attribute Groups** >> **Create Attribute Groups** as shown below.
+**1단계**: 관리자 대시보드에서 아래와 같이 **카탈로그** >> **속성 그룹** >> **속성 그룹 생성**을 클릭합니다.
 
- ![Attribute Groups](../../assets/1.0/images/attributes/createGroups.png)
+ ![속성 그룹](../../assets/1.0/images/attributes/createGroups.png)
 
-**Step 2-** Now add the **Code** & **Label** of the group and then click on **Save Attribute Group** as shown in the below image.
+**2단계**: 이제 그룹의 **코드**와 **레이블**을 추가한 후 아래 이미지와 같이 **속성 그룹 저장**을 클릭합니다.
 
- ![Attribute Groups](../../assets/1.0/images/attributes/editGroup.png)
+ ![속성 그룹](../../assets/1.0/images/attributes/editGroup.png)
 
-So now a **New Attribute Group** is created as shown in the below image.
+이제 아래 이미지와 같이 **새로운 속성 그룹**이 생성됩니다.
 
- ![Attribute Groups Grid](../../assets/1.0/images/attributes/groupGrid.png)
+ ![속성 그룹 그리드](../../assets/1.0/images/attributes/groupGrid.png)
 
-**Step 3-** Now to assign this group click on **Catalog >> Attribute Families >> Edit Default Attribute Family** and click on **Assign Attribute Group** as shown in the image below.
+**3단계**: 이제 이 그룹을 할당하려면 **카탈로그 >> 속성 패밀리 >> 기본 속성 패밀리 편집**을 클릭하고 아래 이미지와 같이 **속성 그룹 할당**을 클릭합니다.
 
- ![Attribute Groups Grid](../../assets/1.0/images/attributes/assignGroup.png)
+ ![속성 그룹 그리드](../../assets/1.0/images/attributes/assignGroup.png)
 
-**Step 4-** Now select the group and click on **Assign Attribute Group** button as shown below.
+**4단계**: 이제 그룹을 선택하고 아래와 같이 **속성 그룹 할당** 버튼을 클릭합니다.
 
- ![Attribute Groups Grid](../../assets/1.0/images/attributes/newGroup.png)
+ ![속성 그룹 그리드](../../assets/1.0/images/attributes/newGroup.png)
 
-New group is created successfully in the main content. 
+새로운 그룹이 메인 콘텐츠에 성공적으로 생성됩니다.
 
- ![Attribute Groups Grid](../../assets/1.0/images/attributes/groupOutput.png)
+ ![속성 그룹 그리드](../../assets/1.0/images/attributes/groupOutput.png)
 
-On the Admin Dashboard, click **Catalog >> Products >> Create Product**.
+관리자 대시보드에서 **카탈로그 >> 제품 >> 제품 생성**을 클릭합니다.
 
-Now the group will appear automatically in your product form. If the product has at least one attribute in this group.
+이제 제품에 이 그룹에 속한 속성이 하나 이상 있다면, 그룹이 제품 양식에 자동으로 나타납니다.
 
- ![Attribute Groups Grid](../../assets/1.0/images/attributes/outputGroup.png)
+ ![속성 그룹 그리드](../../assets/1.0/images/attributes/outputGroup.png)
 
 

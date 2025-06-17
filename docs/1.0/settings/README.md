@@ -1,21 +1,21 @@
-### Locales
+### 로케일
 
-It refers to the regional or cultural settings that determine how product information is presented, including language, currency, date formats, and other locale-specific details.
+이는 언어, 통화, 날짜 형식 및 기타 로케일별 세부 정보를 포함하여 제품 정보가 표시되는 방식을 결정하는 지역 또는 문화적 설정을 말합니다.
 
-### Currencies
+### 통화
 
-Currencies in UnoPim refer to the different monetary systems used to manage and display product pricing and financial data across various markets and regions.
+UnoPim의 통화는 다양한 시장과 지역에서 제품 가격 및 재무 데이터를 관리하고 표시하는 데 사용되는 다양한 통화 시스템을 말합니다.
 
-### Channels 
+### 채널
 
-UnoPim allows you to set up and manage multiple instances in a single UnoPim backend. 
+UnoPim을 사용하면 단일 UnoPim 백엔드에서 여러 인스턴스를 설정하고 관리할 수 있습니다.
 
-Channels help ensure that product information is accurately and consistently presented across different touchpoints and platforms.
+채널은 제품 정보가 다양한 접점과 플랫폼에서 정확하고 일관되게 표시되도록 도와줍니다.
 
-### Users
+### 사용자
 
-It refers to the individuals who interact with the system, including roles such as product managers, content creators, marketers, and administrators, each with specific permissions and access levels for managing and maintaining product data.
+이는 제품 관리자, 콘텐츠 제작자, 마케터 및 관리자와 같은 역할을 포함하여 시스템과 상호 작용하는 개인을 말하며, 각각 제품 데이터를 관리하고 유지하는 데 특정 권한 및 접근 수준을 가집니다.
 
-### Roles
+### 역할
 
-It refers to the specific functions or responsibilities assigned to users within the system, defining their access levels and tasks related to managing and maintaining product data.
+이는 시스템 내에서 사용자에게 할당된 특정 기능이나 책임을 말하며, 제품 데이터를 관리하고 유지하는 것과 관련된 접근 수준과 작업을 정의합니다.

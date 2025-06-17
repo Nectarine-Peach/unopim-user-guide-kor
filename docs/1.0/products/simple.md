@@ -1,117 +1,117 @@
-# Simple Product
+# 단순 제품
 
-A simple product is the most basic and common product type. It's a physical, unique, standalone product without any other variations. 
+단순 제품은 가장 기본적이고 일반적인 제품 유형입니다. 다른 변형이 없는 물리적이고 독립적인 단일 제품입니다.
 
-Simple products offer customizable options within a single SKU.
+단순 제품은 단일 SKU 내에서 사용자 정의 옵션을 제공합니다.
 
-This is the step-by-step tutorial on how to add a simple product in [UnoPim](https://unopim.com/).
+이것은 [UnoPim](https://unopim.com/)에서 단순 제품을 추가하는 방법에 대한 단계별 튜토리얼입니다.
 
-### To Create Simple Product in UnoPim
-1. Click on **Catalog >> Products >>** select product type **Simple**,**Family** and enter **SKU**.
+### UnoPim에서 단순 제품 생성하기
+1. **카탈로그 >> 제품 >>** 제품 유형 **단순**, **패밀리**를 선택하고 **SKU**를 입력합니다.
 
- ![Simple](../../assets/1.0/images/simple-product/simple.png) 
+ ![단순](../../assets/1.0/images/simple-product/simple.png) 
 
-Now **Save the Product**, and you will get redirected to the Edit product page as shown below.
+이제 **제품 저장**을 클릭하면 아래와 같이 제품 편집 페이지로 이동합니다.
 
-### General Attributes
+### 일반 속성
 
-It displays the attributes assigned in the product's family grouped by attribute group. 
+제품의 패밀리에 할당된 속성들이 속성 그룹별로 그룹화되어 표시됩니다.
 
-The below given are required attributes present in the "default" family
+아래는 "기본" 패밀리에 있는 필수 속성들입니다:
 
-1) Enter **SKU** of the product
+1) 제품의 **SKU** 입력
 
-2) Enter **Name** of the product.
+2) 제품의 **이름** 입력
 
-3) Now enter the **URL Key** of the product.
+3) 제품의 **URL 키** 입력
  
- ![editProduct](../../assets/1.0/images/simple-product/editProduct.png)
+ ![제품편집](../../assets/1.0/images/simple-product/editProduct.png)
 
-### Short Description
-Enter a short description of the features of the product.
+### 간단한 설명
+제품의 특징에 대한 간단한 설명을 입력합니다.
 
-### Description
-Mention your product in detail.
+### 상세 설명
+제품에 대해 자세히 설명합니다.
 
- ![description](../../assets/1.0/images/simple-product/description.png) 
+ ![설명](../../assets/1.0/images/simple-product/description.png) 
 
-### Price
-Insert the price and cost price of the product as shown in the below image
+### 가격
+아래 이미지와 같이 제품의 가격과 원가를 입력합니다.
 
- ![price](../../assets/1.0/images/simple-product/price.png)
+ ![가격](../../assets/1.0/images/simple-product/price.png)
 
-### Technical
+### 기술적 정보
 
-Now Enable the product from the status option as shown below.
+아래와 같이 상태 옵션에서 제품을 활성화합니다.
 
- ![Status](../../assets/1.0/images/simple-product/status.png) 
+ ![상태](../../assets/1.0/images/simple-product/status.png) 
 
-### Categories
+### 카테고리
 
-You can also assign the product into the root category as shown in the below image.
+아래 이미지와 같이 제품을 루트 카테고리에 할당할 수 있습니다.
 
- ![Category](../../assets/1.0/images/simple-product/category.png) 
+ ![카테고리](../../assets/1.0/images/simple-product/category.png) 
 
-### Associations
+### 연관 제품
 
-Also, you can add the Related Products, Upsell Products, and Cross Sell Products.
+관련 제품, 업셀 제품, 크로스셀 제품을 추가할 수 있습니다.
 
-**1) Related Products -** Related products are products that are similar to a selected product. 
+**1) 관련 제품 -** 관련 제품은 선택한 제품과 유사한 제품들입니다.
 
-You can display potential substitutes help to them discover other similar products they might like. 
+잠재적인 대체 제품을 표시하여 고객이 좋아할 만한 다른 유사 제품을 발견할 수 있도록 도와줍니다.
 
-To add Related Products click on Add in the Related Products section and search the product through the SKU which you want to add as a Related Product as shown in the image below. 
+관련 제품을 추가하려면 관련 제품 섹션에서 추가를 클릭하고, 관련 제품으로 추가하고 싶은 제품의 SKU를 통해 검색합니다.
 
- ![Related](../../assets/1.0/images/simple-product/related.png) 
+ ![관련](../../assets/1.0/images/simple-product/related.png) 
 
-Now click on **Add Selected Product** button.
+이제 **선택한 제품 추가** 버튼을 클릭합니다.
 
-**2) Up-Sell Products -** Upselling is the practice of selling a higher-end version of an item they're interested in. 
+**2) 업셀 제품 -** 업셀링은 고객이 관심 있는 제품의 상위 버전을 판매하는 방식입니다.
 
-For instance, an electronics retailer pointing out the benefits of a better TV, a faster laptop, or a more durable tablet would be an example of upselling.
+예를 들어, 전자제품 소매업자가 더 나은 TV, 더 빠른 노트북, 더 내구성이 좋은 태블릿의 장점을 강조하는 것이 업셀링의 예입니다.
 
-To add Up-Sell Products click on add in the Up-Sell Products section and search the product through the SKU which you want to add as a Up-Sell Product as shown in the image below. 
+업셀 제품을 추가하려면 업셀 제품 섹션에서 추가를 클릭하고, 업셀 제품으로 추가하고 싶은 제품의 SKU를 통해 검색합니다.
 
- ![Upsell](../../assets/1.0/images/simple-product/upsell.png) 
+ ![업셀](../../assets/1.0/images/simple-product/upsell.png) 
 
-Now click on **Add Selected Product** button.
+이제 **선택한 제품 추가** 버튼을 클릭합니다.
 
-**2) Cross-Sell Products -** Cross-sells are products that you promote, based on the current product. They are typically complementary items.
+**3) 크로스셀 제품 -** 크로스셀은 현재 제품을 기반으로 홍보하는 제품들입니다. 일반적으로 보완적인 품목들입니다.
 
-For example, if you are selling a laptop, cross-sells might be protective case stickers or a special adapter.
+예를 들어, 노트북을 판매하는 경우 크로스셀 제품은 보호 케이스, 스티커 또는 특별한 어댑터가 될 수 있습니다.
 
-To add Cross-Sell Products click on add in the Cross-Sell Products section and search the product through SKU which you want to add as a Cross-Sell Product as shown in the image below. 
+크로스셀 제품을 추가하려면 크로스셀 제품 섹션에서 추가를 클릭하고, 크로스셀 제품으로 추가하고 싶은 제품의 SKU를 통해 검색합니다.
 
- ![Upsell](../../assets/1.0/images/simple-product/upsell.png) 
+ ![크로스셀](../../assets/1.0/images/simple-product/upsell.png) 
 
-Now click on **Add Selected Product** button.
+이제 **선택한 제품 추가** 버튼을 클릭합니다.
 
-You can also add as many products as per your requirements.
+필요에 따라 원하는 만큼 많은 제품을 추가할 수 있습니다.
 
-At last, **Save the Product**.
+마지막으로 **제품 저장**을 클릭합니다.
 
- ![Save](../../assets/1.0/images/simple-product/save.png) 
+ ![저장](../../assets/1.0/images/simple-product/save.png) 
 
-Now the product is created successfully and it will be visible in **Products Data Grid** as shown in the below image.
+이제 제품이 성공적으로 생성되었으며 아래 이미지와 같이 **제품 데이터 그리드**에 표시됩니다.
 
- ![Datagrid](../../assets/1.0/images/simple-product/datagrid.png) 
+ ![데이터그리드](../../assets/1.0/images/simple-product/datagrid.png) 
 
-Additionally, you can view the product history by navigating to **Catalog >> Products >> Edit Product** and clicking on **History** as shown below.
+추가로, **카탈로그 >> 제품 >> 제품 편집**으로 이동하여 **기록**을 클릭하면 제품 기록을 볼 수 있습니다.
 
- ![History](../../assets/1.0/images/simple-product/history.png) 
+ ![기록](../../assets/1.0/images/simple-product/history.png) 
 
-Afterwards, in the **Actions** you can view the product history as shown below.
+그 후, **작업**에서 아래와 같이 제품 기록을 볼 수 있습니다.
 
- ![Preview](../../assets/1.0/images/simple-product/preview.png) 
+ ![미리보기](../../assets/1.0/images/simple-product/preview.png) 
 
-Additionally, you can quickly export your data in CSV, XLS, or XLSX formats.
+또한 데이터를 CSV, XLS 또는 XLSX 형식으로 빠르게 내보낼 수 있습니다.
 
- ![Export](../../assets/1.0/images/simple-product/export.png) 
+ ![내보내기](../../assets/1.0/images/simple-product/export.png) 
 
-Now, click on **Quick Export button** to export the data.
+이제 **빠른 내보내기 버튼**을 클릭하여 데이터를 내보냅니다.
 
- ![Export Output](../../assets/1.0/images/simple-product/exportOutput.png) 
+ ![내보내기 결과](../../assets/1.0/images/simple-product/exportOutput.png) 
 
-**Note-** Attributes that support values per channel will display a channel badge, while attributes that support values per locale will display a locale badge. If an attribute supports both values per channel and values per locale, it will display both badges.
+**참고-** 채널별 값을 지원하는 속성은 채널 배지를 표시하고, 로케일별 값을 지원하는 속성은 로케일 배지를 표시합니다. 속성이 채널별 값과 로케일별 값을 모두 지원하는 경우 두 배지가 모두 표시됩니다.
 
- ![Export Output](../../assets/1.0/images/simple-product/final.png) 
+ ![최종 결과](../../assets/1.0/images/simple-product/final.png) 

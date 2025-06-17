@@ -1,44 +1,44 @@
-# Export 
+# 내보내기
 
-Exporting data to save information in files is a common practice for data management, analysis, and sharing. This involves transferring data from a source system into a file format that is suitable for storage, future use, or sharing with others. 
+데이터를 파일로 저장하여 정보를 관리, 분석, 공유하는 것은 일반적인 관행입니다. 이는 데이터를 소스 시스템에서 저장, 향후 사용 또는 다른 사람과 공유하기에 적합한 파일 형식으로 전송하는 것을 포함합니다. 
 
-### Steps to add Bulk Export in UnoPim
+### UnoPim에서 대량 내보내기 추가하는 단계
 
-**Step 1:** Go to the Admin panel of UnoPim click on **Data Transfer >> Exports** and click on Create Exports button.
+**1단계:** UnoPim의 관리자 패널로 이동하여 **데이터 전송 >> 내보내기**를 클릭하고 내보내기 생성 버튼을 클릭합니다.
 
-   ![Create Export](../../assets/1.0/images/data-transfer/createExport.png)
+   ![내보내기 생성](../../assets/1.0/images/data-transfer/createExport.png)
 
-**Step 2:** Under general configurations add the below fields.
+**2단계:** 일반 구성에서 다음 필드를 추가합니다.
 
-1) **Code -** Enter the code of your Export process.
+1) **코드 -** 내보내기 프로세스의 코드를 입력합니다.
 
-2) **Type -** Kindly select the type i.e. (Products, Categories) which you want to Export.
+2) **유형 -** 내보내려는 유형(제품, 카테고리 등)을 선택합니다.
 
-3) **Field Separator –** This feature allows you to set the fields. For Example if you use **","** as a field separator then the data inside the file gets separated with this.
+3) **필드 구분자 -** 이 기능을 사용하여 필드를 설정할 수 있습니다. 예를 들어 **","**를 필드 구분자로 사용하면 파일 내의 데이터가 이를 기준으로 구분됩니다.
 
-4) **Filters -** Select the format of the file **(CSV, XLS, XLSX)** as per your requiremnts from the dropdown.
+4) **필터 -** 드롭다운에서 요구 사항에 맞는 파일 형식(**CSV, XLS, XLSX**)을 선택합니다.
 
-5) **With Media -** Enable or Disable if you need the export data with or without Media. 
+5) **미디어 포함 -** 미디어를 포함하거나 제외하여 내보내기 데이터를 활성화하거나 비활성화합니다.
 
-Now, click on **Save Export** button
+이제 **내보내기 저장** 버튼을 클릭합니다.
 
-   ![Save Export](../../assets/1.0/images/data-transfer/saveExport.png)
+   ![내보내기 저장](../../assets/1.0/images/data-transfer/saveExport.png)
 
-**Step 3:** Now click on **Export Now** button as shown in the below image.
+**3단계:** 아래 이미지와 같이 **지금 내보내기** 버튼을 클릭합니다.
 
-   ![Export Now](../../assets/1.0/images/data-transfer/exportNow.png)
+   ![지금 내보내기](../../assets/1.0/images/data-transfer/exportNow.png)
 
-**Step 4:** Now click on **Data Transfer >> Job Tracker** where you see the status of your export process. After the status shows completed then the export process has been completed successfully.
+**4단계:** **데이터 전송 >> 작업 추적기**를 클릭하여 내보내기 프로세스의 상태를 확인합니다. 상태가 완료되면 내보내기 프로세스가 성공적으로 완료된 것입니다.
 
-Now click on action to view you export data as shown in the below image.
+이제 아래 이미지와 같이 작업을 클릭하여 내보내기 데이터를 확인합니다.
 
-   ![Export Now](../../assets/1.0/images/data-transfer/action.png)
+   ![작업](../../assets/1.0/images/data-transfer/action.png)
 
-**Step 5:** You can easily download your export file from here.
+**5단계:** 여기서 내보내기 파일을 쉽게 다운로드할 수 있습니다.
 
-   ![Export Output](../../assets/1.0/images/data-transfer/exportOutput.png)
+   ![내보내기 출력](../../assets/1.0/images/data-transfer/exportOutput.png)
 
-So by the above steps you can easily create Export Data in UnoPim.   
+위의 단계를 통해 UnoPim에서 쉽게 데이터 내보내기를 생성할 수 있습니다.   
 
 
 

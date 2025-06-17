@@ -1,10 +1,10 @@
-## Import
+## 가져오기
 
-Import is a feature that allows users to import large quantities of data into a system quickly and efficiently. It simplifies the process and saves time by not having to add each piece of information one by one.
+가져오기는 사용자가 대량의 데이터를 시스템에 빠르고 효율적으로 가져올 수 있게 해주는 기능입니다. 이 기능은 각 정보를 하나씩 추가할 필요 없이 프로세스를 간소화하고 시간을 절약합니다.
 
-The feature works differently for each system and has a vast variety of use cases across many industries as well as [UnoPim](https://unopim.com/).
+이 기능은 각 시스템마다 다르게 작동하며, 다양한 산업 분야와 [UnoPim](https://unopim.com/)에서도 다양한 사용 사례가 있습니다.
 
-## Export 
+## 내보내기
 
-Exporting data to save information in files is a common practice for data management, analysis, and sharing. This involves transferring data from a source system into a file format that is suitable for storage, future use, or sharing with others. 
+데이터를 파일로 저장하여 정보를 관리, 분석, 공유하는 것은 데이터 관리의 일반적인 방법입니다. 이는 데이터를 소스 시스템에서 저장, 향후 사용 또는 다른 사람과 공유하기에 적합한 파일 형식으로 전송하는 것을 포함합니다. 
 

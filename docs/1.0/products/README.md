@@ -1,13 +1,13 @@
-# Product types
+# 제품 유형
 
-### Simple Product
+### 단순 제품
 
-A simple product is the most basic and common product type. It's a physical, unique, standalone product without any other variations. 
+단순 제품은 가장 기본적이고 일반적인 제품 유형입니다. 다른 변형이 없는 물리적이고 고유한 독립형 제품입니다.
 
-Simple products offer customizable options within a single SKU.
+단순 제품은 단일 SKU 내에서 사용자 정의 가능한 옵션을 제공합니다.
 
-### Configurable Product
+### 구성 가능한 제품
 
-It refers to a type of product that offers various options or variations, such as size, color, or features, which can be selected by the customer. 
+이는 고객이 선택할 수 있는 크기, 색상 또는 기능과 같은 다양한 옵션이나 변형을 제공하는 제품 유형을 말합니다.
 
-The UnoPim system manages these options and their associated attributes, ensuring accurate and comprehensive product information across different configurations.
+UnoPim 시스템은 이러한 옵션과 관련 속성을 관리하여 다양한 구성에 걸쳐 정확하고 포괄적인 제품 정보를 보장합니다.

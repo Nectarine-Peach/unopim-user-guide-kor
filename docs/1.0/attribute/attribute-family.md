@@ -1,29 +1,29 @@
-# Attribute Family
+# 속성 패밀리
 
-By using Attribute Families, you can import all the required information about the product in a single step.
+속성 패밀리를 사용하면 제품에 필요한 모든 정보를 한 번에 가져올 수 있습니다.
 
-It can be specified as a list of attributes that are related to a unique product. Here we have listed out the tutorial on product attribute families in UnoPim.
+이는 고유한 제품과 관련된 속성 목록으로 지정할 수 있습니다. 여기서는 UnoPim의 제품 속성 패밀리에 대한 튜토리얼을 설명합니다.
 
-### Create Attribute Family in UnoPim
+### UnoPim에서 속성 패밀리 생성하기
 
-**Step 1**:- On the Admin Dashboard, click **Catalog** >> **Attribute Families** >> **Create Attribute Family**
+**1단계**: 관리자 대시보드에서 **카탈로그** >> **속성 패밀리** >> **속성 패밀리 생성**을 클릭합니다.
 
- ![Attribute Family](../../assets/1.0/images/attributes/createFamily.png)
+ ![속성 패밀리](../../assets/1.0/images/attributes/createFamily.png)
 
-**Step 2**:- Now assign the attribute to your new attribute family from the Unassigned Attributes by dragging and dropping it according to your requirements.
+**2단계**: 이제 할당되지 않은 속성에서 드래그 앤 드롭하여 새로운 속성 패밀리에 속성을 할당합니다.
 
-Then, enter the **Attribute Family Code** and **Name** as shown in the below image.
+그런 다음 아래 이미지와 같이 **속성 패밀리 코드**와 **이름**을 입력합니다.
 
- ![Attribute Family](../../assets/1.0/images/attributes/saveFamily.png)
+ ![속성 패밀리](../../assets/1.0/images/attributes/saveFamily.png)
 
-At last, click on **Save Attribute Family** button.
+마지막으로 **속성 패밀리 저장** 버튼을 클릭합니다.
 
-So now after creating a family the New Attribute Family is visible on the attribute family datagrid as shown in the below image.
+이제 패밀리를 생성한 후 새로운 속성 패밀리가 아래 이미지와 같이 속성 패밀리 데이터그리드에 표시됩니다.
 
- ![Attribute Family](../../assets/1.0/images/attributes/new.png)
+ ![속성 패밀리](../../assets/1.0/images/attributes/new.png)
 
-Afterward, to verify the output during the product creation process, you will be able to see the new Attribute family. Now all Attribute will be visible on the product page that belongs to these Attribute Families.
+이후 제품 생성 과정에서 출력을 확인하면 새로운 속성 패밀리를 볼 수 있습니다. 이제 이 속성 패밀리에 속하는 모든 속성이 제품 페이지에 표시됩니다.
 
- ![Attribute Family](../../assets/1.0/images/attributes/familyOutput.png)
+ ![속성 패밀리](../../assets/1.0/images/attributes/familyOutput.png)
 
-By following the above steps, you can easily create an **Attribute Families** in UnoPim.
+위 단계를 따르면 UnoPim에서 쉽게 **속성 패밀리**를 생성할 수 있습니다.

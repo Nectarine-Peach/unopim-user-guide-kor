@@ -1,32 +1,32 @@
-# Introduction
+# 소개
 
-[UnoPim](https://unopim.com/) is an open-source Product Information Management (PIM) system built on the Laravel framework. It helps businesses organize, manage, and enrich their product information in one central repository.
+[UnoPim](https://unopim.com/)은 Laravel 프레임워크를 기반으로 구축된 오픈 소스 제품 정보 관리(PIM) 시스템입니다. 이 시스템은 기업이 제품 정보를 하나의 중앙 저장소에서 구성, 관리 및 풍부하게 만드는 데 도움을 줍니다.
 
-### Features
+### 기능
 
-**1) Centralized Product Management-**
-Manage all your product data in one place.
+**1) 중앙화된 제품 관리 -**
+모든 제품 데이터를 한 곳에서 관리합니다.
 
-**2) Data Enrichment-**
-Enhance your product information with detailed attributes.
+**2) 데이터 풍부화 -**
+상세한 속성으로 제품 정보를 향상시킵니다.
 
-**3) Category Management-**
-Organize products into categories for easier navigation, with customizable category fields.
+**3) 카테고리 관리 -**
+사용자 정의 가능한 카테고리 필드로 제품을 카테고리로 구성하여 쉽게 탐색할 수 있습니다.
 
-**4) User Management-**
-Control user access and permissions.
+**4) 사용자 관리 -**
+사용자 접근 및 권한을 제어합니다.
 
-**5) API Integration-**
-Seamlessly integrate with other systems via RESTful APIs.
+**5) API 통합 -**
+RESTful API를 통해 다른 시스템과 원활하게 통합됩니다.
 
-**6) Localization-**
-Support for multiple languages and locales.
+**6) 현지화 -**
+여러 언어 및 로케일을 지원합니다.
 
-**7) Import/Export Functionality-**
-Easily import and export product data using CSV and XLSX formats, with a quick export feature for streamlined data handling.
+**7) 가져오기/내보내기 기능 -**
+CSV 및 XLSX 형식을 사용하여 제품 데이터를 쉽게 가져오고 내보낼 수 있으며, 빠른 내보내기 기능으로 데이터 처리를 간소화합니다.
 
-**8) Magic AI for Product Content Generation-**
-Automatically generate engaging product content using advanced LLM (Large Language Model) technology.
+**8) 제품 콘텐츠 생성을 위한 Magic AI -**
+고급 LLM(대규모 언어 모델) 기술을 사용하여 매력적인 제품 콘텐츠를 자동으로 생성합니다.
 
-**9) Multi-Channel Support-**
-Manage and distribute your product data across multiple sales channels from a single platform.
+**9) 다중 채널 지원 -**
+단일 플랫폼에서 여러 판매 채널에 걸쳐 제품 데이터를 관리하고 배포합니다.

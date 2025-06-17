@@ -1,31 +1,31 @@
-# Currencies
+# 통화
 
-Currencies in UnoPim refer to the different monetary systems used to manage and display product pricing and financial data across various markets and regions.
+UnoPim의 통화는 다양한 시장과 지역에서 제품 가격 및 재무 데이터를 관리하고 표시하는 데 사용되는 다양한 통화 시스템을 말합니다.
 
-### Add Currency in UnoPim
+### UnoPim에서 통화 추가하기
 
-**Step 1:** On the Admin panel of UnoPim go to **Setting >> Currencies >> Create Currency** as shown in below image.
+**1단계:** UnoPim의 관리자 패널에서 **설정 >> 통화 >> 통화 생성**으로 이동합니다.
 
- ![Currency](../../assets/1.0/images/settings/createCurrency.png)
+ ![통화](../../assets/1.0/images/settings/createCurrency.png)
 
-**Step 2:** Now Enter **Code, Symbol, Decimal** then enable the **Status** and click on **Save Currency** button as shown in below image.
+**2단계:** 이제 **코드, 기호, 소수점**을 입력한 다음 **상태**를 활성화하고 아래 이미지와 같이 **통화 저장** 버튼을 클릭합니다.
 
- ![Save Currency](../../assets/1.0/images/settings/saveCurrency.png)
+ ![통화 저장](../../assets/1.0/images/settings/saveCurrency.png)
 
-**Step 3:** Now you will able to see the new **Currency** in the currency datagrid.
+**3단계:** 이제 통화 데이터 그리드에서 새 **통화**를 볼 수 있습니다.
 
- ![Currency Grid](../../assets/1.0/images/settings/currencyGrid.png)
+ ![통화 그리드](../../assets/1.0/images/settings/currencyGrid.png)
 
-**Step 4:** On the admin panel click on **Settings >> Channels** you will able to see your new currency get visible in the currencies section.
+**4단계:** 관리자 패널에서 **설정 >> 채널**을 클릭하면 새 통화가 통화 섹션에 표시되는 것을 볼 수 있습니다.
 
-Once the channel setting has been done click on **Save Channel** as shown in the below image.
+채널 설정이 완료되면 아래 이미지와 같이 **채널 저장**을 클릭합니다.
 
- ![Currency Output](../../assets/1.0/images/settings/currencyOutput.png)
+ ![통화 출력](../../assets/1.0/images/settings/currencyOutput.png)
 
-**Step 5:** After adding this currency to the channel, it will be displayed on the product edit page for price type attributes to manage price values for different currencies.
+**5단계:** 이 통화를 채널에 추가한 후, 제품 편집 페이지의 가격 유형 속성에 표시되어 다양한 통화에 대한 가격 값을 관리할 수 있습니다.
 
- ![Currency Output](../../assets/1.0/images/settings/productCurrency.png)
+ ![통화 출력](../../assets/1.0/images/settings/productCurrency.png)
 
-So by this, you can easily create a **Currency** in UnoPim.   
+이렇게 하면 UnoPim에서 쉽게 **통화**를 생성할 수 있습니다.   
 
 

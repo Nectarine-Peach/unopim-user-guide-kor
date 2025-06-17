@@ -1,15 +1,15 @@
-# Attribute
+# 속성
 
-An *Attribute* is a specification or characteristic of a product, for example, Color, Size, and Pattern are attributes of a T-Shirt.
+*속성*은 제품의 사양 또는 특성을 의미합니다. 예를 들어, 티셔츠의 색상, 사이즈, 패턴 등이 속성에 해당합니다.
 
-You can also create many attributes for a single product. Product attributes play a major role in the buying decision of the customer.
+하나의 제품에 대해 여러 속성을 생성할 수 있습니다. 제품 속성은 고객의 구매 결정에 중요한 역할을 합니다.
 
-Attributes determine the type of input control that is used for product options and provide additional information for product pages.
+속성은 제품 옵션에 사용되는 입력 컨트롤의 유형을 결정하며, 제품 페이지에 추가 정보를 제공합니다.
 
-You can create as many **attributes** and **attribute families** as necessary to describe the products in UnoPim.
+UnoPim에서는 제품을 설명하기 위해 필요한 만큼 **속성**과 **속성 패밀리**를 생성할 수 있습니다.
 
-Product Attributes are a set of characteristics that define a particular product or a group of goods.
+제품 속성은 특정 제품이나 상품 그룹을 정의하는 특성들의 집합입니다.
 
-This means size, color, flavor, package type, etc. constitute attributes. 
+즉, 크기, 색상, 맛, 패키지 유형 등이 속성에 해당합니다.
 
-Product attributes are not just about the general description of a product, but they speak about the value of products that make it unique.
+제품 속성은 단순히 제품의 일반적인 설명이 아니라, 제품을 고유하게 만드는 가치에 대해 설명합니다.
